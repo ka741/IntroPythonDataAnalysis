@@ -2,3 +2,7 @@
 An introduction to Python for data analysis
 
 These files contain notebooks and data files that correspond to a course on python for data analysis.
+
+Recommended order:
+
+1)	Exploratory Data Analysis
