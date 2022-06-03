@@ -4,7 +4,7 @@
 
 **Companion Blog Posts**
 
-The course is described in blog posts that can be found here https://medium.com/@ka741. This repo contains all the notebooks in the introduction to python for data analysis tutorial.There are several notebooks in the series, each stepping through an important part of the data analysis process.
+The course is described in blog posts that can be found here https://medium.com/@ka741. This repo contains all the notebooks in the introduction to python for data analysis tutorial. There are several notebooks in the series, each stepping through an important part of the data analysis process.
 
 **What data are we using?**
 
